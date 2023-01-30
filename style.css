@@ -1,0 +1,21 @@
+header {
+    text-align: center;
+}
+
+main {
+    width: 80%;
+    margin: 30px auto;
+    text-align: justify;
+}
+
+#quote {
+    width: 60%;
+    text-align: center;
+    margin: 120px auto;
+}
+
+footer {
+    text-align: center;
+    background-color: aquamarine;
+    margin-top: 80px;
+}
